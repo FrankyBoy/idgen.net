@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idgen.net", "idgen.net\idgen.net.csproj", "{1DE4DC12-ADD6-422C-8A97-FE3D05E2FC7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{3FF872BF-3510-4879-B29C-67EA5C25D503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE4DC12-ADD6-422C-8A97-FE3D05E2FC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE4DC12-ADD6-422C-8A97-FE3D05E2FC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE4DC12-ADD6-422C-8A97-FE3D05E2FC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE4DC12-ADD6-422C-8A97-FE3D05E2FC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF872BF-3510-4879-B29C-67EA5C25D503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF872BF-3510-4879-B29C-67EA5C25D503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF872BF-3510-4879-B29C-67EA5C25D503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF872BF-3510-4879-B29C-67EA5C25D503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
