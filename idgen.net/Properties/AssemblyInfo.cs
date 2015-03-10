@@ -7,7 +7,7 @@ using System.Reflection;
 [assembly: AssemblyTitle("idgen.net")]
 [assembly: AssemblyDescription("generator and validator for spanish NIE/NIF numbers")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Immanuel Hayden")]
 [assembly: AssemblyProduct("idgen.net")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
