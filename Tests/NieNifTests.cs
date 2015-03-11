@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using idgen.net;
+using Idgen.Net;
 
 namespace Tests
 {

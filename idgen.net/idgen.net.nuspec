@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <licenseUrl>https://github.com/FrankyBoy/idgen.net/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/FrankyBoy/idgen.net</projectUrl>
-    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright 2015</copyright>

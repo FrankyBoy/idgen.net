@@ -2,7 +2,7 @@
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace idgen.net
+namespace Idgen.Net
 {
     public static class IdGen
     {
